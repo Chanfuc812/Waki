@@ -1,2 +1,0 @@
-# Waki
-MiniApp ZALO
